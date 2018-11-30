@@ -59,7 +59,8 @@ header {
 	flex-direction: column;
 }
 .banner-image img {
-	width: 100%
+	width: 100%;
+	object-fit: contain;
 }
 .banner-desc .heading {
 	padding-bottom: 2vw;
